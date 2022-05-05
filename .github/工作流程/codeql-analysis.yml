@@ -1,0 +1,1105 @@
+# For most projects, this workflow file will not need changing; you simply need
+# to commit it to your repository.
+#
+# You may wish to alter this file to override the set of languages analyzed,
+# or to provide custom queries or build logic.
+#
+# ******** NOTE ********
+# We have attempted to detect the languages in your repository. Please check
+# the `language` matrix defined below to confirm you have the correct set of
+# supported CodeQL languages.
+#
+name: "Code<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>恋播软件分享</title>
+
+<meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0" name="viewport"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+<meta content="telephone=no" name="format-detection"/>
+      
+    <link rel='stylesheet' id='style-css' href='/static/css/1.css' type='text/css' media='all' />
+
+
+<link href="/css/style.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/slider.js"></script>
+<style>.nav-tags {display: }
+body {background: #FCFCFC;}
+.aui-navBar { background: #FCFCFC;}
+.aui-app-flex-box {background: #ffffff;}
+.footer{background: #ffffff;}
+.sd-cms{background: #ffffff;}
+/*主字*/
+
+.aui-flex-box h2 {color: #272727;}
+.aui-flex-box h2 em {color: #272727;}
+.show-soure h1{color: #272727;}/*APP名*/
+.index .change li.active {color: #272727;border-bottom: 3px solid #3C3C3C;}/*推荐*/
+.app-content h2 {color: #272727;}
+
+.footer-more .footer {color: #272727;}
+.footer a {color: #272727;}
+
+
+/*副字*/
+.show-soure h3 {color: #3C3C3C;}
+.show-content h2.validity {color: #3C3C3C;}
+.php-asp-net {color: #3C3C3C;}/*more*/
+
+
+/*按钮*/
+.ts-bottom-fix {}
+
+.show-down {background-color: #DF0101;}
+
+.app-down {background: #272727;}
+</style>
+</head>
+
+
+<body style="min-width: 310px; max-width: 650px; margin: 0 auto;">
+<div class="sd-cms">
+<div class="aui-m-slider">
+<div class="m-slider" data-ydui-slider>
+<div class="slider-wrapper">
+    
+<div class="slider-item">
+<a href="http://dysczyy.com/">
+<img src="../upload/626c164988829.png">
+</a>
+</div>
+
+<div class="slider-item">
+<a href="http://dysczyy.com/">
+<img src="../upload/626c156b2897c.png">
+</a>
+</div>
+
+
+
+
+
+</div>
+<div class="slider-pagination"></div>
+</div>
+</div>
+
+<main>
+
+        <div class="form">
+            <marquee>
+                <h2>
+                   本站永久域名：kp58.xyz  备用域名kp57.top， 微信公众号搜索：《91茶》关注永久不迷路。有任何问题请在公众号回复，遇到打不开请多刷新几次。点击查看更多+。                </h2>
+            </marquee>
+        </div>
+        <div class="index">
+            
+            
+<div class="php-asp-net1">
+    <div class="aui-flex">
+    <div class="aui-flex-box">
+       <div class="tool"><h2>强势推荐</h2></div></div>
+ 
+   </div></div>     
+          <ul class="cont"><li class="cont-list"><a href="https://wb.omr.sosotec.com/omr/wb/?v=1649530556#/eval/model" target="_blank">
+<div class="app-img"><img src="http://pic.app.qinzhou360.com/front1_0_Flz03DHQER7nUY2qm29RUW8X33oJ.1602609952.jpg?imageslim|imageView2/1/w/1080/h/1080" alt="高价手机回收"></div>
+             <div class="app-content"><h2>高价手机回收</h2></div>
+             <div class="app-down"><span class="down">安装</span></div>
+             </a></li>
+
+
+<li class="cont-list"><a href="http://www.d1jiema.com/inviteToDl.html?inviteCode=ervwbhk" target="_blank">
+<div class="app-img"><img src="../upload/627385de5566c.jpg" alt="短信验证码收发（首充50）"></div>
+             <div class="app-content"><h2>短信验证码收发（首充50）</h2></div>
+             <div class="app-down"><span class="down">安装</span></div>
+             </a></li>
+
+
+<li class="cont-list"><a href="https://app.opqco.xyz/i-2TBPVT" target="_blank">
+<div class="app-img"><img src="../upload/626d8b667c8d9.png" alt="91视频"></div>
+             <div class="app-content"><h2>91视频</h2></div>
+             <div class="app-down"><span class="down">安装</span></div>
+             </a></li>
+
+
+<li class="cont-list"><a href="https://76b.vip/?parent_icode=949641572" target="_blank">
+<div class="app-img"><img src="../upload/626f785af3072.png" alt="红唇直播"></div>
+             <div class="app-content"><h2>红唇直播</h2></div>
+             <div class="app-down"><span class="down">安装</span></div>
+             </a></li>
+
+
+<li class="cont-list"><a href="https://cm8bb.tv/?parent_icode=198924511" target="_blank">
+<div class="app-img"><img src="../upload/626f787e0b66c.png" alt="草莓直播"></div>
+             <div class="app-content"><h2>草莓直播</h2></div>
+             <div class="app-down"><span class="down">安装</span></div>
+             </a></li>
+
+
+<li class="cont-list"><a href="https://bztv1.com/?us=WOXQF" target="_blank">
+<div class="app-img"><img src="http://www.uzzf.com/up/2016-10/201610261125521927.png" alt="B站视频"></div>
+             <div class="app-content"><h2>B站视频</h2></div>
+             <div class="app-down"><span class="down">安装</span></div>
+             </a></li>
+
+
+<li class="cont-list"><a href="https://www.zhenglee.xyz?c=302&r=FNAGG8" target="_blank">
+<div class="app-img"><img src="../upload/625ecac0b9adf.jpg" alt="粉色视频"></div>
+             <div class="app-content"><h2>粉色视频</h2></div>
+             <div class="app-down"><span class="down">安装</span></div>
+             </a></li>
+
+
+<li class="cont-list"><a href="https:/yt555.vip/?parent_icode=1720662514" target="_blank">
+<div class="app-img"><img src="../upload/626f7899566c7.png" alt="红楼直播"></div>
+             <div class="app-content"><h2>红楼直播</h2></div>
+             <div class="app-down"><span class="down">安装</span></div>
+             </a></li>
+
+
+<li class="cont-list"><a href="https://yy88.tv?parent_icode=333497351" target="_blank">
+<div class="app-img"><img src="../upload/626f78c197715.png" alt="夜月直播"></div>
+             <div class="app-content"><h2>夜月直播</h2></div>
+             <div class="app-down"><span class="down">安装</span></div>
+             </a></li>
+
+
+</ul>
+
+        </div>
+        <div class="adds foot">
+        </div>
+        
+        
+        
+       
+  <div class="ts-bottom-fix"><div class="ts-inner-wrap"><ul class="clearfix">
+    <li class="normal"><a href="/"><span>首页</span></a></li>
+      
+    
+     <li class="normal"><a href="#直播"><span>直播</span></a></li>   
+    
+     <li class="normal"><a href="#聊天软件"><span>聊天软件</span></a></li>   
+    
+     <li class="normal"><a href="#视频"><span>视频</span></a></li>   
+    
+     <li class="normal"><a href="#女神"><span>女神</span></a></li>   
+    
+	      </ul></div></div>        
+        
+        
+        
+        
+        
+     
+     
+        
+        
+     
+        
+<a id="直播"></a>
+<div class="show">
+
+
+<div class="php-asp-net1">
+    <a href="../sort/1.html" class="aui-flex">
+    <div class="aui-flex-box">
+       <div class="tool"><h2>直播</h2></div></div>
+ 
+    <div class="php-asp-net">更多 +</div></a></div>
+            
+            
+            
+            
+            
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-1.html" target="_blank"><img src="../upload/626fbf3c26589.png " alt="八彩直播（原半糖）">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>八彩直播（原半糖）</h1><h3>
+        点赞 [11]
+        人气 [1025]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-1.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity"><img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp2.png">七彩直播。美女如云。如打不开请多刷新几次、、、
+漂亮小姐姐最多的地方，全网大秀颜值主播都在这上面。让你一饱眼福撸到爽，
+精品必备软件，记住永久网址：kp58.xyz备用网址：kp57.top</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-15.html" target="_blank"><img src="/static/picture/douyin.gif" alt="回家地址">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>回家地址</h1><h3>
+        点赞 [1]
+        人气 [103]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-15.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity"><img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp2.png">简介
+永久回家地址，请保存下来。。。。打不开多刷新几次在试试。。。。
+</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-30.html" target="_blank"><img src="../upload/626dd1ca366d6.png" alt="知音直播盒子">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>知音直播盒子</h1><h3>
+        点赞 [1]
+        人气 [62]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-30.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity"><img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp2.png">简介：破解几十个收费直播间，现在购买只需38元需要的加QQ：3396876025</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-22.html" target="_blank"><img src="../upload/6262586e3cd9d.gif" alt="榴莲直播">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>榴莲直播</h1><h3>
+        点赞 [1]
+        人气 [172]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-22.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity">榴莲直播精彩天天看，如遇到打不开的情况请与土豆客服联系或关注微博：月舞主播</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-39.html" target="_blank"><img src="../upload/6273a68a168ca.png" alt="新茶直播">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>新茶直播</h1><h3>
+        点赞 [0]
+        人气 [8]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-39.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity">最新直播APP关注不定期更新。。。</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-31.html" target="_blank"><img src="../upload/626f74c17e685.jpg" alt="红尘直播（安卓版）">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>红尘直播（安卓版）</h1><h3>
+        点赞 [0]
+        人气 [30]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-31.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity">红尘直播安卓手机版。。。</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-36.html" target="_blank"><img src="../upload/6271afbea97c1.jpg" alt="电影福利">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>电影福利</h1><h3>
+        点赞 [1]
+        人气 [12]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-36.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity"><img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+电影福利好几个T资源赶快去看</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-37.html" target="_blank"><img src="../upload/6272daf78397d.png" alt="双鱼直播">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>双鱼直播</h1><h3>
+        点赞 [1]
+        人气 [29]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-37.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity"> 双鱼直播堪比七彩一样精彩。。。。</h2></div>
+            </div>
+
+
+
+</div>     
+        
+<a id="聊天软件"></a>
+<div class="show">
+
+
+<div class="php-asp-net1">
+    <a href="../sort/10.html" class="aui-flex">
+    <div class="aui-flex-box">
+       <div class="tool"><h2>聊天软件</h2></div></div>
+ 
+    <div class="php-asp-net">更多 +</div></a></div>
+            
+            
+            
+            
+            
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-26.html" target="_blank"><img src="../upload/62683d446b94d.jpg" alt="Btok类似纸飞机">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>Btok类似纸飞机</h1><h3>
+        点赞 [0]
+        人气 [10]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-26.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity">软件下载不了请刷新几次试试。。或下载VPN</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-27.html" target="_blank"><img src="http://asdfgh.wsy7.com/upload/20220329/09c6ffabca6f78b4258f8ac6fd2d007a.jpg" alt="蝙蝠聊天软件">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>蝙蝠聊天软件</h1><h3>
+        点赞 [1]
+        人气 [34]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-27.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity">蝙蝠聊天软件目前很火的一款国内聊天软件</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-2.html" target="_blank"><img src="../upload/626516d0b5c74.jpg" alt="土豆聊天">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>土豆聊天</h1><h3>
+        点赞 [4]
+        人气 [725]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-2.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity"><img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp2.png">
+<img src="/images/php-asp3.png"></h2></div>
+            </div>
+
+
+
+</div>     
+        
+<a id="视频"></a>
+<div class="show">
+
+
+<div class="php-asp-net1">
+    <a href="../sort/6.html" class="aui-flex">
+    <div class="aui-flex-box">
+       <div class="tool"><h2>视频</h2></div></div>
+ 
+    <div class="php-asp-net">更多 +</div></a></div>
+            
+            
+            
+            
+            
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-32.html" target="_blank"><img src="../upload/626fb9891dd95.png" alt="泡芙短视频">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>泡芙短视频</h1><h3>
+        点赞 [0]
+        人气 [53]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-32.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity"> 最久的短视频之一，</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-25.html" target="_blank"><img src="https://ccheiliao1.com/static/image/logo.png?v=4" alt="91黒科">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>91黒科</h1><h3>
+        点赞 [1]
+        人气 [45]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-25.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity">欢迎来到91黒科成人世界。</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-23.html" target="_blank"><img src="../upload/62624662f0fd3.jpg" alt="色猫AV">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>色猫AV</h1><h3>
+        点赞 [1]
+        人气 [118]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-23.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity">色猫AV我要给你稳稳的性福，</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-24.html" target="_blank"><img src="../upload/626d7c5ecd8d1.png" alt="91鲍鱼">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>91鲍鱼</h1><h3>
+        点赞 [0]
+        人气 [25]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-24.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity">鲍鱼虽好可不要贪嘴哟？如遇到打不开请多刷新几次。。。</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-17.html" target="_blank"><img src="../upload/626254f783de0.gif" alt="老司机视频">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>老司机视频</h1><h3>
+        点赞 [4]
+        人气 [93]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-17.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity"> 看片约炮尽在老司机，成人抖音成人快手。。。</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-9.html" target="_blank"><img src="../upload/625ed30811dd0.png" alt="91视频">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>91视频</h1><h3>
+        点赞 [3]
+        人气 [1019]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-9.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity"><img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp2.png">
+全网最好用的看片软件，带大秀直播东西俱全看的过瘾。。。。。
+遇到打不开请多刷新几次再试，。。。
+请用自带浏览器或用UC浏览器打开，</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-6.html" target="_blank"><img src="http://i-1.linuxidc.com/2021/6/28/d9c37e00-a084-4f0b-b8c5-0151332af269.png" alt="Pali2视频">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>Pali2视频</h1><h3>
+        点赞 [3]
+        人气 [188]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-6.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity"><img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp2.png">
+<img src="/images/php-asp3.png"></h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-21.html" target="_blank"><img src="https://p2.ssl.cdn.btime.com/t01c0f6f76e7899afcf.gif?size=367x336" alt="妹妹短视频">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>妹妹短视频</h1><h3>
+        点赞 [1]
+        人气 [83]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-21.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity">妹妹短视频全球精品视频，原创每日更新</h2></div>
+            </div>
+
+
+
+</div>     
+        
+<a id="女神"></a>
+<div class="show">
+
+
+<div class="php-asp-net1">
+    <a href="../sort/9.html" class="aui-flex">
+    <div class="aui-flex-box">
+       <div class="tool"><h2>女神</h2></div></div>
+ 
+    <div class="php-asp-net">更多 +</div></a></div>
+            
+            
+            
+            
+            
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-33.html" target="_blank"><img src="../upload/62716534e0d09.png" alt="爱聊脱单软件">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>爱聊脱单软件</h1><h3>
+        点赞 [0]
+        人气 [5]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-33.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity">想脱单上爱聊，姑娘免费约。。。</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-19.html" target="_blank"><img src="https://yaochih.com/_nuxt/img/phone_logo.e0174fd.png" alt="瑶池约炮">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>瑶池约炮</h1><h3>
+        点赞 [1]
+        人气 [187]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-19.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity">约炮看片样样俱全</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-38.html" target="_blank"><img src="../upload/6273956259b97.jpg" alt="楼凤资源">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>楼凤资源</h1><h3>
+        点赞 [1]
+        人气 [34]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-38.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity">全国楼凤资源网</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-34.html" target="_blank"><img src="../upload/627165cb5459c.png" alt="她来了（一款约会软件）">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>她来了（一款约会软件）</h1><h3>
+        点赞 [0]
+        人气 [2]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-34.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity">视频聊天快速约会，上面都是美女。。</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-35.html" target="_blank"><img src="../upload/62716800d2c30.png" alt="么么聊">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>么么聊</h1><h3>
+        点赞 [0]
+        人气 [2]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-35.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity">老司机都在上面约会了你还等什么呢？</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-11.html" target="_blank"><img src="../upload/625ed468e40cf.jpg" alt="约炮专用">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>约炮专用</h1><h3>
+        点赞 [1]
+        人气 [44]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-11.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity">精品必备神器</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-10.html" target="_blank"><img src="../upload/625ed627961a3.jpg" alt="享聊美女视频">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>享聊美女视频</h1><h3>
+        点赞 [1]
+        人气 [25]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-10.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity"><img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp3.png"></h2></div>
+            </div>
+
+
+
+</div>     
+        
+<a id="在线观看"></a>
+<div class="show">
+
+
+<div class="php-asp-net1">
+    <a href="../sort/2.html" class="aui-flex">
+    <div class="aui-flex-box">
+       <div class="tool"><h2>在线观看</h2></div></div>
+ 
+    <div class="php-asp-net">更多 +</div></a></div>
+            
+            
+            
+            
+            
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-28.html" target="_blank"><img src="../upload/62625d692458a.gif" alt="360导航站">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>360导航站</h1><h3>
+        点赞 [0]
+        人气 [158]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-28.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity"> 360导航站浏览什么都可以？？？？
+</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-29.html" target="_blank"><img src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3325817121,3387690951&fm=26&gp=0.jpg" alt="一键装机">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>一键装机</h1><h3>
+        点赞 [0]
+        人气 [125]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-29.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity"> 一键装机，快捷方便，请在电脑端下载</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-14.html" target="_blank"><img src="../upload/625ed7274d9f9.jpg" alt="在线观看">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>在线观看</h1><h3>
+        点赞 [1]
+        人气 [120]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-14.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity">免费观看色色小视频网站，内容多多。。。。</h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-3.html" target="_blank"><img src="../img/a3.gif" alt="在线小姐姐">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>在线小姐姐</h1><h3>
+        点赞 [5]
+        人气 [61]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-3.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity"><img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">可以是文字</h2></div>
+            </div>
+
+
+
+</div>     
+        
+<a id="我的"></a>
+<div class="show">
+
+
+<div class="php-asp-net1">
+    <a href="../sort/3.html" class="aui-flex">
+    <div class="aui-flex-box">
+       <div class="tool"><h2>我的</h2></div></div>
+ 
+    <div class="php-asp-net">更多 +</div></a></div>
+            
+            
+            
+            
+            
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-13.html" target="_blank"><img src="http://img.mp.sohu.com/upload/20170731/451edcb95fab40ca8e539d14c8c975c6_th.png" alt="软件导航站">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>软件导航站</h1><h3>
+        点赞 [0]
+        人气 [71]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-13.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity">http://kp58.xyz/简介：本软件永久免费下载。
+
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp1.png">
+<img src="/images/php-asp2.png"></h2></div>
+            </div>           
+            
+
+ <div class="show-list"><div class="show-img">
+     <a href="../site-8.html" target="_blank"><img src="https://cdn-static.ifonebox.cn/wp-content/uploads/2017/12/2221.jpg" alt="关注微博">
+     </a></div>
+     
+        <div class="show-content"><div class="show-mode"><div class="show-soure">
+        <h1>关注微博</h1><h3>
+        点赞 [1]
+        人气 [21]
+        
+        </h3></div>
+                <div class="show-down"><a href="../site-8.html" target="_blank" class="down">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-download" viewBox="0 0 16 16">
+  <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+  <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+</svg>
+                    安装</a>
+                        </div></div>
+                        
+             <h2 class="validity">精品必备神器</h2></div>
+            </div>
+
+
+
+</div>        
+ 
+
+
+
+
+<footer class="footer">
+	<p>Copyright ©  <a href="../">恋播软件分享</a>. All Rights Reserved.</p>
+	<p><a href="http://www.miitbeian.gov.cn/">爱ICP备浙3212356-1</a></p>
+	<span class="footer-more">
+		广告合作 - 网站收录 -联系QQ：356855759
+联系土豆：@LBFL98
+<br>本站所有素材图片来源互联网及网友投稿，如有侵权请联系我们删除。	</span>
+</footer>
+
+
+
+
+
+</div>
+
+
+
+<script src="../js/main.js"></script>
+
+
+       
+        
+
+    </main></div>
+
+    <script type='text/javascript' src='static/js/3.js' id='ycsd-js'></script>
+</body>
+</html>
